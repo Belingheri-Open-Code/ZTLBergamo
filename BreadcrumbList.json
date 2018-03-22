@@ -1,0 +1,45 @@
+<script type="application/ld+json">
+{
+ "@context": "http://schema.org",
+ "@type": "BreadcrumbList",
+ "itemListElement":
+ [
+  {
+   "@type": "ListItem",
+   "position": 1,
+   "item":
+   {
+    "@id": "https://ztlbergamo.com",
+    "name": "attive ora"
+    }
+  },
+  {
+   "@type": "ListItem",
+  "position": 2,
+  "item":
+   {
+     "@id": "https://ztlbergamo.com/pages/sempreAttive.php",
+     "name": "sempre attive"
+	 }
+   },
+   {
+   "@type": "ListItem",
+  "position": 3,
+  "item":
+   {
+     "@id": "https://ztlbergamo.com/pages/descrizione.php",
+     "name": "descrizione"
+   }
+  },
+  {
+   "@type": "ListItem",
+  "position": 4,
+  "item":
+   {
+     "@id": "https://ztlbergamo.com/pages/contatti.php",
+     "name": "contattami"
+   }
+  }
+ ]
+}
+</script>

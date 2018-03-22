@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"url": "https://ztlbergamo.com",
+	"contactPoint":[{
+		"@type": "ContactPoint",
+		"telephone": "+394564681166",
+		"email": "info@ztlbergamo.com",
+		"contactType": "customer service"
+	}]
+}
+</script>

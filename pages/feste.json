@@ -1,0 +1,140 @@
+[
+  {
+    "Data": "01.01.2018",
+    "Descrizione": "Capodanno",
+    "Giorno della settimana": "lun",
+    "Settimana di calendario": "Settimana 01"
+  },
+  {
+    "Data": "06.01.2018",
+    "Descrizione": "Epifania",
+    "Giorno della settimana": "sab",
+    "Settimana di calendario": "Settimana 01"
+  },
+  {
+    "Data": "25.03.2018",
+    "Descrizione": "Le Palme",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 12"
+  },
+  {
+    "Data": "25.03.2018",
+    "Descrizione": "Inizio ora legale",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 12"
+  },
+  {
+    "Data": "01.04.2018",
+    "Descrizione": "Pasqua",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 13"
+  },
+  {
+    "Data": "02.04.2018",
+    "Descrizione": "Lunedi' di Pasqua (Pasquetta)",
+    "Giorno della settimana": "lun",
+    "Settimana di calendario": "Settimana 14"
+  },
+  {
+    "Data": "25.04.2018",
+    "Descrizione": "Liberazione Italia",
+    "Giorno della settimana": "mer",
+    "Settimana di calendario": "Settimana 17"
+  },
+  {
+    "Data": "01.05.2018",
+    "Descrizione": "Festa del lavoro",
+    "Giorno della settimana": "mar",
+    "Settimana di calendario": "Settimana 18"
+  },
+  {
+    "Data": "13.05.2018",
+    "Descrizione": "Festa della mamma",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 19"
+  },
+  {
+    "Data": "20.05.2018",
+    "Descrizione": "Pentecoste",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 20"
+  },
+  {
+    "Data": "02.06.2018",
+    "Descrizione": "Festa della Repubblica Italia",
+    "Giorno della settimana": "sab",
+    "Settimana di calendario": "Settimana 22"
+  },
+  {
+    "Data": "15.08.2018",
+    "Descrizione": "<span class=important\">OnLingua Err: _holiday_42_1</span>",
+    "Giorno della settimana": "mer",
+    "Settimana di calendario": "Settimana 33"
+  },
+  {
+    "Data": "26.08.2018",
+    "Descrizione": "<span class=important\">OnLingua Err: _holiday_453</span>",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 34"
+  },
+  {
+    "Data": "28.10.2018",
+    "Descrizione": "Fine ora estate",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 43"
+  },
+  {
+    "Data": "01.11.2018",
+    "Descrizione": "Tutti i santi",
+    "Giorno della settimana": "gio",
+    "Settimana di calendario": "Settimana 44"
+  },
+  {
+    "Data": "02.12.2018",
+    "Descrizione": "Primo Avvento",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 48"
+  },
+  {
+    "Data": "08.12.2018",
+    "Descrizione": "Immacolata Concezione",
+    "Giorno della settimana": "sab",
+    "Settimana di calendario": "Settimana 49"
+  },
+  {
+    "Data": "09.12.2018",
+    "Descrizione": "Secondo Avvento",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 49"
+  },
+  {
+    "Data": "16.12.2018",
+    "Descrizione": "Terzo Avvento",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 50"
+  },
+  {
+    "Data": "23.12.2018",
+    "Descrizione": "Quarto Avvento",
+    "Giorno della settimana": "dom",
+    "Settimana di calendario": "Settimana 51"
+  },
+  {
+    "Data": "25.12.2018",
+    "Descrizione": "Natale",
+    "Giorno della settimana": "mar",
+    "Settimana di calendario": "Settimana 52"
+  },
+  {
+    "Data": "26.12.2018",
+    "Descrizione": "Santo Stefano",
+    "Giorno della settimana": "mer",
+    "Settimana di calendario": "Settimana 52"
+  },
+  {
+    "Data": "31.12.2018",
+    "Descrizione": "San Silvestro",
+    "Giorno della settimana": "lun",
+    "Settimana di calendario": "Settimana 01"
+  }
+]

@@ -1,0 +1,47 @@
+Data;Descrizione;Giorno della settimana;Settimana di calendario
+01.01.2017;Capodanno;dom;Settimana 52
+06.01.2017;Epifania;ven;Settimana 01
+26.03.2017;Inizio ora legale;dom;Settimana 12
+09.04.2017;Le Palme;dom;Settimana 14
+16.04.2017;Pasqua;dom;Settimana 15
+17.04.2017;Lunedì di Pasqua (Pasquetta);lun;Settimana 16
+25.04.2017;Liberazione Italia;mar;Settimana 17
+01.05.2017;Festa del lavoro;lun;Settimana 18
+14.05.2017;Festa della mamma;dom;Settimana 19
+02.06.2017;Festa della Repubblica Italia;ven;Settimana 22
+04.06.2017;Pentecoste;dom;Settimana 22
+15.08.2017;Ferragosto;mar;Settimana 33
+26.08.2017;Sant'Alessandro di Bergamo;sab;Settimana 34
+29.10.2017;Fine ora estate;dom;Settimana 43
+01.11.2017;Tutti i santi;mer;Settimana 44
+03.12.2017;Primo Avvento;dom;Settimana 48
+08.12.2017;Immacolata Concezione;ven;Settimana 49
+10.12.2017;Secondo Avvento;dom;Settimana 49
+17.12.2017;Terzo Avvento;dom;Settimana 50
+24.12.2017;Quarto Avvento;dom;Settimana 51
+25.12.2017;Natale;lun;Settimana 52
+26.12.2017;Santo Stefano;mar;Settimana 52
+31.12.2017;San Silvestro;dom;Settimana 52
+01.01.2018;Capodanno;lun;Settimana 01
+06.01.2018;Epifania;sab;Settimana 01
+25.03.2018;Le Palme;dom;Settimana 12
+25.03.2018;Inizio ora legale;dom;Settimana 12
+01.04.2018;Pasqua;dom;Settimana 13
+02.04.2018;Lunedì di Pasqua (Pasquetta);lun;Settimana 14
+25.04.2018;Liberazione Italia;mer;Settimana 17
+01.05.2018;Festa del lavoro;mar;Settimana 18
+13.05.2018;Festa della mamma;dom;Settimana 19
+20.05.2018;Pentecoste;dom;Settimana 20
+02.06.2018;Festa della Repubblica Italia;sab;Settimana 22
+15.08.2018;"<span class=important"">OnLingua Err: _holiday_42_1</span>""";mer;Settimana 33
+26.08.2018;"<span class=important"">OnLingua Err: _holiday_453</span>""";dom;Settimana 34
+28.10.2018;Fine ora estate;dom;Settimana 43
+01.11.2018;Tutti i santi;gio;Settimana 44
+02.12.2018;Primo Avvento;dom;Settimana 48
+08.12.2018;Immacolata Concezione;sab;Settimana 49
+09.12.2018;Secondo Avvento;dom;Settimana 49
+16.12.2018;Terzo Avvento;dom;Settimana 50
+23.12.2018;Quarto Avvento;dom;Settimana 51
+25.12.2018;Natale;mar;Settimana 52
+26.12.2018;Santo Stefano;mer;Settimana 52
+31.12.2018;San Silvestro;lun;Settimana 01
