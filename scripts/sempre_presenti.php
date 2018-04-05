@@ -13,7 +13,7 @@ if (!$conne->connect_error) {
 			if ($row["data"]==date("Y-m-d")){
 				$fileName="../dati/data.json";
 				$myfile = fopen($fileName, "r") or die ("fallito");$file = fread($myfile, filesize($fileName));
-				echo "alert('file');";
+				//echo "alert('file');";
 			}else {
 				//echo "alert('".$a."');\n";
 				$sql="UPDATE datiPresi SET data='".date("Y-m-d")."' where pagina='".$_SESSION["dove"]."'";
